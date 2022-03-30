@@ -1,0 +1,17 @@
+body {
+    background-image: linear-gradient(to bottom right, rgb(0, 0, 0), rgb(134, 0, 0));
+}
+
+.main_div {
+    height: calc(100% - 100px);
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 25px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.progress-bar {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
